@@ -37,10 +37,10 @@
 
 - ⚡ Fun fact **Enjoy the Learning Process**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/i-amrendra-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i-amrendra-singh/" height="30" width="40" /></a>
-</p>
+👇🏻 If you like what I do, and want to contribute. 
+
+<a href="https://www.buymeacoffee.com/reetpriye" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
