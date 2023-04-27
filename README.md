@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi! <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
+# Hi! <img height="25px" width="30px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
   <h3 align="center">A passionate Technocrate explorer of New Technologies</h3>
 </div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
