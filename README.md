@@ -29,7 +29,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/i-amrendra-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i-amrendra-singh/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amrendra_xsingh/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F02%2F77%2F12%2F027712250a632b2e6f63c5466b792494.png&tbnid=pyzwORH1Z78gXM&vet=12ahUKEwjUv-Go9sr-AhUex6ACHQBPB_gQMygIegUIARD0AQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F633107660119923541%2F&docid=urHuvTVTFNt0hM&w=1551&h=1551&q=instagram%20icon&ved=2ahUKEwjUv-Go9sr-AhUex6ACHQBPB_gQMygIegUIARD0AQ" alt="https://www.instagram.com/amrendra_xsingh/" height= "30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
