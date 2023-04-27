@@ -12,6 +12,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<summary>
+ <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
+</summary>
+  
 - 🔭 I’m currently working on **Personalized Music App**
 
 - 🌱 I’m currently learning **React Native**
