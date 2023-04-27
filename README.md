@@ -39,7 +39,7 @@
 
 👇🏻 If you like what I do, and want to contribute. 
 
-<a href="https://www.buymeacoffee.com/reetpriye" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
+<a href="https://www.buymeacoffee.com/amrendra.singh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
 
 
 
