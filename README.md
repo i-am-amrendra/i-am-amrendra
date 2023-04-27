@@ -41,7 +41,11 @@
 👇🏻 If you like what I do, and want to contribute. 
 
 <a href="https://www.buymeacoffee.com/amrendra.singh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
-
+<p align="left">
+  <a href="https://github.com/sponsors/i-am-amrendra">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -101,7 +105,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
   
-👇🏻 If you like what I do, and want to contribute. 
-
-<a href="https://www.buymeacoffee.com/amrendra.singh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
 
