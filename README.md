@@ -59,6 +59,29 @@
   </a>
 </p>
 
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  </p>
+
+<h3 align="center">Preferred IDEs  & Tools :</h3>
+<p align="center"> 
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+  </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+  <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-430098?style=for-the-badge&logo=figma&logoColor=pink"></a>
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="i-am-amrendra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&locale=en" alt="i-am-amrendra" /></p>
