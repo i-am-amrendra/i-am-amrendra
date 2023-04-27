@@ -16,7 +16,6 @@
 [![CodeChef Badge](https://img.shields.io/badge/-@AmrendraSingh-critical?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/singh_codes/)](https://www.codechef.com/users/singh_codes/)
 [![HackerRank Badge](https://img.shields.io/badge/-@AmrendraSingh-success?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/amrendra_xsingh/)](https://www.hackerrank.com/amrendra_xsingh/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Amrendra_xsingh?style=social)](https://twitter.com/Amrendra_xSingh)
-[![Instagram Badge](https://img.shields.io/instagram/follow/Amrendra_xSingh?style=social)](https://www.instagram.com/Amrendra_xSingh/)
 
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="20" width="20" />About me</h3>
@@ -41,7 +40,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/i-amrendra-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i-amrendra-singh/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/amrendra_xsingh/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_3670274" alt="https://www.instagram.com/amrendra_xsingh/" height= "30" width="40" /></a>
 </p>
 
 
