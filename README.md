@@ -5,14 +5,14 @@
 # Hi! <img width="30" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
   <h3 align="center">A passionate Technocrate explorer of New Technologies</h3>
 </div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=300&height=20&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-amrendra&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amrendra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <summary>
- <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
+ <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="20" width="20" />About me</h3>
 </summary>
   
 <img align="right" alt="Coding" width="380" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
