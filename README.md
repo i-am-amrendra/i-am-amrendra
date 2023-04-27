@@ -7,7 +7,6 @@
 </div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=2234AE&size=25&center=true&vCenter=true&width=450&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
-<img align="right" alt="Coding" width="300" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-amrendra&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-amrendra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -15,7 +14,9 @@
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="25" width="25" />About me</h3>
 </summary>
-<img align="right" alt="Coding" width="300" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+  
+<img align="right" alt="Coding" width="380" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+  
 - 🔭 I’m currently working on **Personalized Music App**
 
 - 🌱 I’m currently learning **React Native**
