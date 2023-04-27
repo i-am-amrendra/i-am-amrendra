@@ -11,6 +11,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![Portfolio Badge](https://img.shields.io/badge/-🚀Portfolio-black?style=flat-square/)](https://amrendra.singh.me)
+[![Linkedin Badge](https://img.shields.io/badge/-Reet%20Priye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reetpriye/)](https://www.linkedin.com/in/i-amrendra-singh/)
+[![CodeChef Badge](https://img.shields.io/badge/-@reetpriye-critical?style=flat-square&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/reetpriye/)](https://www.codechef.com/users/singh_codes/)
+[![HackerRank Badge](https://img.shields.io/badge/-@reetpriye-success?style=flat-square&logo=HackerRank&logoColor=black&link=https://www.hackerrank.com/reetpriye/)](https://www.hackerrank.com/amrendra_xsingh/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/reetpriye?style=social)](https://twitter.com/Amrendra_xSingh)
+
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="20" width="20" />About me</h3>
 </summary>
