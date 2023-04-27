@@ -99,5 +99,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&locale=en" alt="i-am-amrendra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
+👇🏻 If you like what I do, and want to contribute. 
 
+<a href="https://www.buymeacoffee.com/amrendra.singh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="Buy Me A Book" width="100" ></a>
 
