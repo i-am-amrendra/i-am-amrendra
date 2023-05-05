@@ -5,7 +5,7 @@
 # Hi! <img height="25px" width="23px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
   
 </div>
-<p align="center">I'm a passionate person for taking on challenges and finding innovative solutions to complex problems.I am driven to optimize processes and improve efficiency through automation and continuous improvement initiatives.I am committed to create impact in my field.</p>
+<p align="center">𝐈'𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐩𝐞𝐫𝐬𝐨𝐧 𝐟𝐨𝐫 𝐭𝐚𝐤𝐢𝐧𝐠 𝐨𝐧 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐚𝐧𝐝 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬.𝐈 𝐚𝐦 𝐝𝐫𝐢𝐯𝐞𝐧 𝐭𝐨 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐞𝐬 𝐚𝐧𝐝 𝐢𝐦𝐩𝐫𝐨𝐯𝐞 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐢𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞𝐬.𝐈 𝐚𝐦 𝐜𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐦𝐩𝐚𝐜𝐭 𝐢𝐧 𝐦𝐲 𝐟𝐢𝐞𝐥𝐝.</p>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
