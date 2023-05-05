@@ -6,6 +6,7 @@
   
 </div>
 <p align="center">I'm a passionate person for taking on challenges and finding innovative solutions to complex problems.I am driven to optimize processes and improve efficiency through automation and continuous improvement initiatives.I am committed to create impact in my field.</p>
+<hr>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 
