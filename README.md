@@ -5,7 +5,7 @@
 # Hi! <img height="25px" width="23px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
   <h3 align="center">A passionate Technocrate explorer of New Technologies</h3>
 </div>
-<p align="center">I am a highly passionate person for taking on challenges and finding innovative solutions to complex problems. I am committed to driving success by leveraging my meticulous attention to detail and unwavering dedication to excellence. As a Technocrate, I am driven to optimize processes and improve efficiency through automation and continuous improvement initiatives. I am committed to making a meaningful impact in my field and delivering value to stakeholders.</p>
+<p align="right">I'm a passionate person for taking on challenges and finding innovative solutions to complex problems.I am driven to optimize processes and improve efficiency through automation and continuous improvement initiatives. I am committed to making a meaningful impact in my field and delivering value to stakeholders.</p>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
 
