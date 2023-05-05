@@ -19,6 +19,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/Amrendra_xsingh?style=social)](https://twitter.com/Amrendra_xSingh)
 
 <hr>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-am-amrendra&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <summary>
