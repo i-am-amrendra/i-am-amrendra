@@ -107,6 +107,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
   
+<center>
+  <h1 align="center"> 🔥 Contributions: </h1>
+
+<br/>
+
+[![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+  </center>
+  
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
