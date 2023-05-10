@@ -9,7 +9,7 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=90EE90&size=25&center=true&vCenter=true&width=350&height=30&lines=Welcome+to+my+profile...;Glad+to+see+you+here!"/>
 </div>
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-amrendra&label=GitHub%20views&color=0e75b6&style=flat" alt="i-am-amrendra" /> </p>
 
 [![Portfolio Badge](https://img.shields.io/badge/-🚀Portfolio-black?style=flat-square/)](https://amrendra.singh.me)
