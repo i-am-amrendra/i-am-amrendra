@@ -23,6 +23,9 @@
 <summary>
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="20" width="20" />About me</h3>
 </summary>
+<p align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw2SM28pOzhjN8-pxIDnULlA&ust=1684091154807000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCNDYt8v-8v4CFQAAAAAdAAAAABCSAQ"/>
+  </p>  
   
 - 🔭 I’m currently working on **Personalized Music App**
 
@@ -104,6 +107,7 @@
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra" /></p>
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&higde_border=true" alt="i-am-amrendra" /></p>
 </p>
+
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
 <br/>
