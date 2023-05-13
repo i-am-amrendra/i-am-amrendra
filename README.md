@@ -139,6 +139,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-amrendra&theme=prussian&hide_border=true" />
 </p>
+  
+![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  
 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
