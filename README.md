@@ -101,8 +101,8 @@
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="i-am-amrendra" /></p>
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&locale=en" alt="i-am-amrendra" /></p>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra" /></p>
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&higde_border=true" alt="i-am-amrendra" /></p>
 </p>
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
