@@ -100,11 +100,11 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
  <p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true&layout=compact" alt="i-am-amrendra" /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-amrendra&theme=merko&layout=compact" alt="Amrendra's GitHub Top Languages" />
   </p>
   
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-amrendra&theme=merko&layout=compact" alt="Top Languages used" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&hide_border=true" alt="i-am-amrendra" />
 </p>
 
