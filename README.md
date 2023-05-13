@@ -111,7 +111,8 @@
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
 <br/>
-<a href="http://www.github.com/i-am-amrendra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/i-am-amrendra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Amrendra's GitHub Activity Graph"/></a>
+  
 <!--[![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
 -->
 <br/>
