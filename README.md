@@ -98,16 +98,14 @@
   <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-430098?style=for-the-badge&logo=figma&logoColor=pink"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="i-am-amrendra" /></p>
 <p align="center">
-<p><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="i-am-amrendra" /></p>
-
-<p>&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&locale=en" alt="i-am-amrendra" /></p>
-
-<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&locale=en" alt="i-am-amrendra" /></p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&" alt="i-am-amrendra" /></p>
 </p>
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
-
 <br/>
 
 [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
