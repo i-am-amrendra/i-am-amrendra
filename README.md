@@ -115,6 +115,7 @@
 [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
 <br/>
   </center>
+<a href="http://www.github.com/i-am-amrendra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  
 
