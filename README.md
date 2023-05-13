@@ -99,10 +99,9 @@
   <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-430098?style=for-the-badge&logo=figma&logoColor=pink"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="i-am-amrendra" /></p>
+ <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true&locale=en&layout=compact" alt="i-am-amrendra" /> 
 <p align="center">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&higde_border=true" alt="i-am-amrendra" />
 </p>
 
@@ -113,11 +112,6 @@
 [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
 <br/>
   </center>
-  
- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=i-am-amrendra&theme=prussian&hide_border=true" />
-</p>
   
 ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  
 
