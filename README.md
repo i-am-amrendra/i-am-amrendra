@@ -3,7 +3,6 @@
 <div align="center">
 
 # Hi! <img height="25px" width="23px" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Amrendra Singh 
-  
 </div>
 <p align="center">I'm a passionate person for taking on challenges and finding innovative solutions to complex problems.I am driven to optimize processes and improve efficiency through automation and continuous improvement initiatives.I am committed to create impact in my field.</p>
 
