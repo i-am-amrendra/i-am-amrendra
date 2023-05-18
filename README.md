@@ -20,7 +20,7 @@
  <h3><a target="blank"><img align="right" src="https://media0.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif?cid=ecf05e47cdogpsnracr8e08l1yys6sxql2kkhn3ut4pceywd&rid=giphy.gif&ct=s" height="20" width="20" />About me</h3>
 </summary>
 <img align="right" width="400" height="300" src="https://github.com/i-am-amrendra/i-am-amrendra/blob/main/Gif.gif"/>
-  
+ 
 - 🔭 I’m currently working on **Personalized Music App**
 
 - 🌱 I’m currently learning **React Native**
