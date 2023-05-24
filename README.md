@@ -105,17 +105,17 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&hide_border=true" alt="i-am-amrendra"/>
 </p>
 
+ <!--
 <center>
   <h1 align="center"> 🔥 Contributions: </h1>
 <br/>
 <a href="http://www.github.com/i-am-amrendra">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Amrendra's%20github%20activity%20graph" alt="Amrendra's GitHub Activity Graph"/>
  </a>
-  
-<!--[![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
--->
 <br/>
   </center>
+  -->
+ [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
 <!-- ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  -->
  
 <h2 align="center">Connect with me</h2>
