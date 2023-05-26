@@ -120,6 +120,13 @@
 -->
 <!-- ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  -->
  
+<center>
+ <h1 align="center">🔥Contributions: </h1>
+ </br>
+ [![Amrendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-am-amrendra&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/i-am-amrendra/github-readme-activity-graph)
+ </br>
+ </center>
+ 
 <h2 align="center">Connect with me</h2>
 <div align="center">  
   <a href="https://github.com/i-am-amrendra" target="_blank">
