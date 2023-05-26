@@ -115,7 +115,9 @@
 <br/>
   </center>
   -->
+ <!--
  [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
+-->
 <!-- ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  -->
  
 <h2 align="center">Connect with me</h2>
