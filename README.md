@@ -52,7 +52,7 @@
  <p align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-amrendra&show_icons=true&locale=en&layout=compact" alt="Amrendra's Top Languages"/>
   </p>
-  
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/i-am-amrendra/2?theme=wtf&ext=heatmap)](https://leetcode.com/i-am-amrendra/)
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=prussian&hide_border=true" alt="i-am-amrendra"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=prussian&hide_border=true" alt="i-am-amrendra"/>
