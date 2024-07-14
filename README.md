@@ -94,7 +94,7 @@
   <a href="" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.instagram.com/amrendra_xsingh/" target="_blank">
+  <a href="https://www.instagram.com/its_amrendra.singh/" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://medium.com/@Amrendra_Singh" target="_blank">
