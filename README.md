@@ -1,4 +1,3 @@
-<br><br>
 <div align="center">
 # Hi! <img height="25px" width="20px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Amrendra Singh 
 </div>
