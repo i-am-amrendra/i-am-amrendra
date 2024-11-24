@@ -74,8 +74,9 @@
  [![Amrendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-am-amrendra)](https://github.com/i-am-amrendra/github-readme-activity-graph)
 -->
 <!-- ![Github Streak](https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/master/git%20analysis.png)  -->
-
-[![Amrendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-am-amrendra&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/i-am-amrendra/github-readme-activity-graph)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/i-am-amrendra/i-am-amrendra/output/github-contribution-grid-snake.svg" />
+</p>
  </br>
  
 <h2 align="center">Connect with me</h2>
