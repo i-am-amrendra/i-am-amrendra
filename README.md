@@ -1,4 +1,4 @@
-## Hi there👋 I am Amrendra Singh, Full Stack and DevOps Engineer with an interest towards the open-source, Web3 and Artificial Intelligence(AI).
+## Hello👋 I am Amrendra Singh, Full Stack and DevOps Engineer with an interest towards the open-source, Web3 and Artificial Intelligence(AI).
 
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
