@@ -1,5 +1,8 @@
-## Hello👋 I am Amrendra Singh, Full Stack and DevOps Engineer with an interest towards the open-source, Web3 and Artificial Intelligence(AI).
+#### Hi there👋 
+#### I am Amrendra, Full Stack Web Developer and Programmer with a passion for creating dynamic and responsive web apps. Proficient in ReactJS, Tailwind CSS, and JavaScript, I'm also diving into Django, flask to broaden my backend skills. Always eager to explore new technologies, I focus on delivery seamless user experience and optimizing performance. Let's build something amazing together! interest towards the open-source, Web3 and Artificial Intelligence(AI).
 
+<h3>My Skills</h3>
+<img align="left" src="https://skillicons.dev/icons?i=c++,python,js,react,html,css,tailwindcss,redux,nodejs,express,mongodb,nvm,git,django"
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
