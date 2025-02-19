@@ -7,9 +7,10 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <span align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-amrendra&langs_count=8&layout=compact&theme=react" alt="most-used-programming-languages" />
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=i-am-amrendra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <span align="center"><img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=i-am-amrendra&layout=compact&langs_count=8&theme=algolia"/>
 </span>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-amrendra&theme=tokyonight"/>
 </div>
 
   <br/>
