@@ -1,3 +1,4 @@
+<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" alt="Amrendra's profile views" />
 #### Hi there👋 
 #### I'm Amrendra, a Full Stack Web Developer and Programmer with a passion for creating dynamic and responsive web apps. Proficient in C++, Python, ReactJS, Tailwind CSS, and JavaScript, I'm also diving into Django, flask to broaden my backend skills. Always eager to explore new technologies, I focus on delivery seamless user experience and optimizing performance. Let's build something amazing together! interest towards the open-source, Web3 and Artificial Intelligence(AI).
 
